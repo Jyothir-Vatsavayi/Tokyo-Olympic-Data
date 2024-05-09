@@ -1,0 +1,9 @@
+{
+	"name": "assignment-tokyo-olympic-df",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07ded4f1-e197-448b-b0e8-40fddf1e02be",
+		"tenantId": "41f88ecb-ca63-404d-97dd-ab0a169fd138"
+	}
+}
