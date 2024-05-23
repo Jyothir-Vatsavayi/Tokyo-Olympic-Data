@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "Total_Name",
-				"folderPath": "processed",
+				"fileName": "Total_Name.csv",
+				"folderPath": "raw",
 				"fileSystem": "tokyo-olympic-data"
 			},
 			"columnDelimiter": ",",
