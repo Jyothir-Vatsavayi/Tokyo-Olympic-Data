@@ -1,0 +1,12 @@
+{
+	"name": "Source_ls",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Jyothir-Vatsavayi/Total_Name/main/Total%20List%20-%20Sheet1.csv?token=GHSAT0AAAAAACOF2CE4KZSCA2G4IKNCTG7SZSOTZLA",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
